@@ -20,7 +20,7 @@ ping [destino]
 tracert [destino]
 ```
 
-## 📁 Arquivos
+## Arquivos
 
 - `RIP_atividade.pkt`: arquivo do Packet Tracer com a topologia e configurações
 - `relatorio_RIP_atividade.md`: este documento
