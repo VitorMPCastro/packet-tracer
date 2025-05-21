@@ -1,0 +1,12 @@
+interface FastEthernet0/0
+ip address 192.168.1.1 255.255.255.0
+no shutdown
+interface FastEthernet0/1
+ip address 200.200.40.1 255.255.255.0
+no shutdown
+interface FastEthernet1/0
+ip address 200.200.60.1 255.255.255.0
+no shutdown
+interface FastEthernet1/1
+ip address 200.200.20.1 255.255.255.0
+no shutdown
